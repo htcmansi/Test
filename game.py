@@ -35,4 +35,4 @@ score+=100*count
 print('Your Score : ',score)
 print('Highest score : 1500\n')
 print('====================================')
-print('Hope you liked the game                           please up vote😊')
+
