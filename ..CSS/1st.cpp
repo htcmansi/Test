@@ -1,4 +1,4 @@
-// Created by Mansi raut
+
 
  /* only you can do ( + ) ex= "1+1" type like this*/
 
@@ -17,4 +17,4 @@ int main() {
 
   return 0;
 }
-/*Mansi raut */
+
