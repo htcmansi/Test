@@ -1,4 +1,4 @@
-# Created by Mansi Raut
+# Created by Mansi Raut.
  
 import random
 choose=[7,chr(178),chr(1),'~',chr(219),chr(177),0]
